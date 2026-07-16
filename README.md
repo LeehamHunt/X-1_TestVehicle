@@ -1,6 +1,6 @@
 # X-1 Test Vehicle (AIAA Design/Build/Fly 2025)
 
-![Completed Glider](images/final_glider.jpg)
+![Completed Glider](images/CompletedGlider.jpg)
 
 ## Overview
 
@@ -58,7 +58,7 @@ Key design considerations included:
 * Release mechanism integration
 * Manufacturability
 
-![CAD Assembly](images/cad_model.png)
+![CAD Assembly](images/GliderCAD.png)
 
 ---
 
@@ -75,7 +75,26 @@ Analysis focused on:
 
 Simulation results informed multiple design revisions prior to fabrication.
 
-![FEA Results](images/fea.png)
+![FEA Results](images/GliderFEA(3.5g).png)
+
+---
+
+## Aerodynamic Analysis
+
+Aerodynamic performance was evaluated using **VSPAERO** to assess the flight characteristics of the X-1 test vehicle prior to fabrication. Computational analyses were performed throughout the design process to guide geometry refinement and verify that the glider would achieve stable, efficient flight following release from the carrier aircraft.
+
+Simulation results were used to evaluate:
+
+* Lift and drag characteristics
+* Lift-to-drag (L/D) ratio
+* Static longitudinal stability
+* Angle of attack effects
+* Control surface effectiveness
+* Flight trim and glide performance
+
+The aerodynamic analysis informed iterative modifications to the wing geometry, tail configuration, and center of gravity, helping balance stability, controllability, and glide efficiency while satisfying the competition's weight and packaging constraints.
+
+![VSPAERO Analysis](images/FluidSim.png)
 
 ---
 
@@ -90,8 +109,6 @@ Design objectives included:
 * Repeatable operation
 * Minimal added weight
 * Compatibility with the carrier aircraft
-
-![Release Mechanism](images/release_mechanism.png)
 
 ---
 
