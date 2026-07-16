@@ -1,6 +1,6 @@
 # X-1 Test Vehicle (AIAA Design/Build/Fly 2025)
 
-![Completed Glider](images/CompletedGlider.jpg)
+<img src="https://github.com/LeehamHunt/X-1_TestVehicle/blob/main/images/CompletedGlider.jpg" width="600" align="center">
 
 ## Overview
 
