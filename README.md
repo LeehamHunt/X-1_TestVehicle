@@ -1,10 +1,10 @@
-# X-1 Test Vehicle (AIAA Design/Build/Fly 2024)
+# X-1 Test Vehicle (AIAA Design/Build/Fly 2025)
 
 ![Completed Glider](images/final_glider.jpg)
 
 ## Overview
 
-This project involved the design, analysis, fabrication, and testing of the X-1 Test Vehicle for the 2024 AIAA Design/Build/Fly (DBF) competition. The objective was to develop a lightweight autonomous glider capable of being safely carried beneath a competition aircraft and reliably released during flight while satisfying competition-defined structural, geometric, and operational requirements.
+This project involved the design, analysis, fabrication, and testing of the X-1 Test Vehicle for the 2025 AIAA Design/Build/Fly (DBF) competition. The objective was to develop a lightweight autonomous glider capable of being safely carried beneath a competition aircraft and reliably released during flight while satisfying competition-defined structural, geometric, and operational requirements.
 
 My primary responsibilities included the mechanical design of the glider, structural analysis through finite element analysis (FEA), fabrication, and development of the release mechanism used to deploy the vehicle from the carrier aircraft.
 
